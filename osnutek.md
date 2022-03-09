@@ -6,8 +6,8 @@ Ekipa: Andraž Rudman, Alen Vidmar, Jaka Maležič
 
 Podatki:
 
-Vir Podatkov- https://covid-19.sledilnik.org/sl/data
-              https://podatki.gov.si/dataset/potrjeni-primeri-covid-19-po-cepljenju
+Vir Podatkov:- https://covid-19.sledilnik.org/sl/data
+             - https://podatki.gov.si/dataset/potrjeni-primeri-covid-19-po-cepljenju
 
 Podatki vsebujejo informacije o številu obolelih z covid-19 od 4.3.2020 ko se je pojavil prvi primer v Sloveniji.
 Vsebujejo tudi šteilo cepljenih po dnevih in prebolelih. Podatke imamo tudi o stanju v bolnicah za vsak dan, ki zajemajo 
