@@ -3,7 +3,7 @@
 
 | Ime in priimek |
 | -------------- |
-| Andraž L Rudman |
+| Andraž Rudman |
 | Jaka Maležič |
 | Alen vidmar |
 
