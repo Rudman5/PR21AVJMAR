@@ -17,7 +17,6 @@ Podatke za projektno nalogo smo našli na spletnem portalu [covid-19.sledilnik.o
 ## Cilji
 - Vizualizacija odvisnost hospitalizacije od cepljenja. 
 - Ugotoviti kdaj se virus najbolj širi.
-- 
 
 
 
